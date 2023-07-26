@@ -1,2 +1,0 @@
-# Kdata
-Python/Numpy/DATA
